@@ -12,6 +12,7 @@
 #include <fs.h>
 #include <part.h>
 #include <version.h>
+#include <command.h>
 
 static void getvar_version(char *var_parameter, char *response);
 static void getvar_version_bootloader(char *var_parameter, char *response);

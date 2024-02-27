@@ -8,7 +8,6 @@
 .*
 *.a
 *.asn1.[ch]
-*.bin
 *.cfgout
 *.dtb
 *.dtbo
@@ -18,7 +17,6 @@
 *.gcda
 *.gcno
 *.i
-*.img
 *.lex.c
 *.lst
 *.mod.c
