@@ -37,7 +37,7 @@
 	"name=boot,size=32M,bootable,uuid=${uuid_gpt_boot};" \
 	"name=recovery,size=32M,uuid=${uuid_gpt_recovery};"	\
 	"name=cache,size=256M,uuid=${uuid_gpt_cache};"	\
-	"name=super,size=1792M,uuid=${uuid_gpt_super};"	\
+	"name=super,size=2304M,uuid=${uuid_gpt_super};"	\
 	"name=userdata,size=12786M,uuid=${uuid_gpt_userdata};" \
 	"name=rootfs,size=-,uuid=" ROOT_UUID
 #endif
